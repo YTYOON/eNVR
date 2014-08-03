@@ -1,0 +1,5 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by NVR.rc
+//
+#define HIDC_STATIC_GROUP_NAME          0x81e303e9    // IDD_DLG_AUTOSCAN_PAUSE
+#include "resource2.h"
